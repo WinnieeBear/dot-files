@@ -105,6 +105,9 @@ Plugin 'kshenoy/vim-signature'
 Plugin 'dyng/ctrlsf.vim'
 Plugin 'iamcco/markdown-preview.nvim'
 Plugin 'Chiel92/vim-autoformat'
+Plugin 'xolox/vim-misc'
+Plugin 'xolox/vim-easytags'
+Plugin 'erig0/cscope_dynamic'
 
 
 " pulgin list end
