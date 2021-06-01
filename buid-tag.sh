@@ -1,5 +1,5 @@
 #!/bin/bash
-ctags -R --c++-kinds=+p+l+x+c+d+e+f+g+m+n+s+t+u+v --fields=+liaS --extra=+q --java-kinds=+l  --python-kinds=-i
+ctags -R --c++-kinds=+p+l+x+c+d+e+f+g+m+n+s+t+u+v --fields=+liaS --extras=+q --java-kinds=+l  --python-kinds=-i
 CSCOPE_DIR="$PWD/cscope"
  
 if [ ! -d "$CSCOPE_DIR" ]; then
